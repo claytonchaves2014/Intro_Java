@@ -9,7 +9,7 @@ public class Medidas {
 
     // 3.2 - Métodos e Funções o que eles sabem fazer
     public static void main(String[] args) {
-        System.out.println("Cálculo de área");
+        System.out.println("bom dia");
 
         // Calculo de área - Reduzido
         int largura = 4;
